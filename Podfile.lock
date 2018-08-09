@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - RNCryptor-objc (3.0.6)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - RNCryptor-objc (~> 3.0.6)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - RNCryptor-objc
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  RNCryptor-objc: d1b228f9c02e2173df063f0617684c134aed890e
+
+PODFILE CHECKSUM: 53c2b443643a7a62bee71271697259d3947d0e02
+
+COCOAPODS: 1.5.2
